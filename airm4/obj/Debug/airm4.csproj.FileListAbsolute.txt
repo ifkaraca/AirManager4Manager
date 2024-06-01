@@ -1,0 +1,20 @@
+C:\Users\ifkar\Desktop\airm4\airm4\bin\Debug\airm4.exe.config
+C:\Users\ifkar\Desktop\airm4\airm4\bin\Debug\airm4.exe
+C:\Users\ifkar\Desktop\airm4\airm4\bin\Debug\airm4.pdb
+C:\Users\ifkar\Desktop\airm4\airm4\obj\Debug\airm4.csproj.AssemblyReference.cache
+C:\Users\ifkar\Desktop\airm4\airm4\obj\Debug\airm4.Form1.resources
+C:\Users\ifkar\Desktop\airm4\airm4\obj\Debug\airm4.Properties.Resources.resources
+C:\Users\ifkar\Desktop\airm4\airm4\obj\Debug\airm4.csproj.GenerateResource.cache
+C:\Users\ifkar\Desktop\airm4\airm4\obj\Debug\airm4.csproj.CoreCompileInputs.cache
+C:\Users\ifkar\Desktop\airm4\airm4\obj\Debug\airm4.exe
+C:\Users\ifkar\Desktop\airm4\airm4\obj\Debug\airm4.pdb
+C:\Users\ifkar\Desktop\airm4 - Kopya\airm4\bin\Debug\airm4.exe.config
+C:\Users\ifkar\Desktop\airm4 - Kopya\airm4\bin\Debug\airm4.exe
+C:\Users\ifkar\Desktop\airm4 - Kopya\airm4\bin\Debug\airm4.pdb
+C:\Users\ifkar\Desktop\airm4 - Kopya\airm4\obj\Debug\airm4.csproj.AssemblyReference.cache
+C:\Users\ifkar\Desktop\airm4 - Kopya\airm4\obj\Debug\airm4.Form1.resources
+C:\Users\ifkar\Desktop\airm4 - Kopya\airm4\obj\Debug\airm4.Properties.Resources.resources
+C:\Users\ifkar\Desktop\airm4 - Kopya\airm4\obj\Debug\airm4.csproj.GenerateResource.cache
+C:\Users\ifkar\Desktop\airm4 - Kopya\airm4\obj\Debug\airm4.csproj.CoreCompileInputs.cache
+C:\Users\ifkar\Desktop\airm4 - Kopya\airm4\obj\Debug\airm4.exe
+C:\Users\ifkar\Desktop\airm4 - Kopya\airm4\obj\Debug\airm4.pdb

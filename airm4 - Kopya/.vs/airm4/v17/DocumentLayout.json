@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ifkar\\Desktop\\airm4 - Kopya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44C7B171-5BCE-49E4-8806-3F089FD3DF5C}|airm4\\airm4.csproj|c:\\users\\ifkar\\desktop\\airm4 - kopya\\airm4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44C7B171-5BCE-49E4-8806-3F089FD3DF5C}|airm4\\airm4.csproj|solutionrelative:airm4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C7B171-5BCE-49E4-8806-3F089FD3DF5C}|airm4\\airm4.csproj|C:\\Users\\ifkar\\Desktop\\airm4 - Kopya\\airm4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C7B171-5BCE-49E4-8806-3F089FD3DF5C}|airm4\\airm4.csproj|solutionrelative:airm4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C7B171-5BCE-49E4-8806-3F089FD3DF5C}|airm4\\airm4.csproj|C:\\Users\\ifkar\\Desktop\\airm4 - Kopya\\airm4\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C7B171-5BCE-49E4-8806-3F089FD3DF5C}|airm4\\airm4.csproj|solutionrelative:airm4\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ifkar\\Desktop\\airm4 - Kopya\\airm4\\DbHelper.cs",
+              "RelativeDocumentMoniker": "airm4\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\ifkar\\Desktop\\airm4 - Kopya\\airm4\\DbHelper.cs",
+              "RelativeToolTip": "airm4\\DbHelper.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:06:31.726Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ifkar\\Desktop\\airm4 - Kopya\\airm4\\Form1.cs",
+              "RelativeDocumentMoniker": "airm4\\Form1.cs",
+              "ToolTip": "C:\\Users\\ifkar\\Desktop\\airm4 - Kopya\\airm4\\Form1.cs",
+              "RelativeToolTip": "airm4\\Form1.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAkwM0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:54:11.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ifkar\\Desktop\\airm4 - Kopya\\airm4\\Form1.cs",
+              "RelativeDocumentMoniker": "airm4\\Form1.cs",
+              "ToolTip": "C:\\Users\\ifkar\\Desktop\\airm4 - Kopya\\airm4\\Form1.cs [Design]",
+              "RelativeToolTip": "airm4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:45:41.143Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

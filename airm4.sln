@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "airm4", "airm4\airm4.csproj", "{44C7B171-5BCE-49E4-8806-3F089FD3DF5C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{50055CB7-970E-4E5D-9253-09E82F150481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44C7B171-5BCE-49E4-8806-3F089FD3DF5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C7B171-5BCE-49E4-8806-3F089FD3DF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C7B171-5BCE-49E4-8806-3F089FD3DF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C7B171-5BCE-49E4-8806-3F089FD3DF5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50055CB7-970E-4E5D-9253-09E82F150481}.Debug|Any CPU.ActiveCfg = Debug
+		{50055CB7-970E-4E5D-9253-09E82F150481}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82688156-80A4-4862-8903-7CCC55DECB63}
+	EndGlobalSection
+EndGlobal
